@@ -56,3 +56,9 @@ Busco conectar el análisis técnico con la toma de decisiones y la innovación.
 
 > “La bitácora no es solo un registro de lo que hice, sino de lo que estoy aprendiendo a hacer.”  
 > — *Liroy Cataldo*
+
+
+---
+
+✍️ *Autor: Liroy Cataldo*  
+📧 Email: **liroybast@gmail.com**
