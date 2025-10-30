@@ -28,8 +28,7 @@ Busco conectar el análisis técnico con la toma de decisiones y la innovación.
 
 📫 Puedes contactarme o seguir mi trabajo en:  
 - 🌐 [Portafolio web](https://lirbast.github.io/web_page/)  
-- 💼 [LinkedIn](https://www.linkedin.com/) _(agrega tu enlace si quieres)_  
-- 🐙 [GitHub](https://github.com/LirBast)
+
 
 ---
 
