@@ -1,12 +1,16 @@
 
 ---
 
-## 🚀 Cómo explorar el contenido
+## 🚀 Sobre este repositorio
 
-Cada publicación está escrita en **Markdown** y organizada en la carpeta `_posts`.  
-Puedes navegar directamente en GitHub o visitar la versión web del blog si está disponible:
+Este repositorio funciona como una **bitácora digital de aprendizaje y exploración**, donde registro mi proceso continuo en el mundo de la **ciencia de datos**, la **programación** y el **análisis de información**.  
 
-🔗 [**Visitar mi sitio web / portafolio**](https://lirbast.github.io/web_page/)
+Aquí conviven proyectos técnicos, reflexiones personales y ejercicios prácticos que me ayudan a profundizar en distintas áreas del análisis y la visualización de datos.  
+Cada publicación representa un avance, un experimento o una idea en evolución — una forma de documentar no solo resultados, sino también el camino que lleva a ellos.
+
+🔗 También puedes visitar la versión web de esta bitácora:  
+[**Portafolio / Blog Personal**](https://lirbast.github.io/web_page/)
+
 
 ---
 
